@@ -45,3 +45,11 @@ body {
 header .logo-box img {
   height: 45px;
 }
+
+.heading-primary {
+  color: #fff;
+  text-transform: uppercase;
+}
+
+.heading-primary-main {
+}
